@@ -32,7 +32,7 @@ https://simpleicons.org/
     <a href="https://github.com/ladung">
         <img src="https://img.shields.io/github/followers/trangnth.svg?label=GitHub&style=social" 
             alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/">
+    <a href="https://www.linkedin.com/in/dungla07/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"      
             alt="LinkedIn"></a>
     <a href="#">
@@ -40,7 +40,7 @@ https://simpleicons.org/
             alt="LinkedIn"></a>
 </p>
 
-<h2 align="center">About me </h2>
+<!-- <h2 align="center">About me </h2>
 <p align="center">
 <b>CMC Telecom | Aspire to inspire the digital world</b>
 <br>
@@ -49,7 +49,7 @@ Devops Engineeer
 <b>Add</b>: CMC Tower, 11 Duy Tan, Cau Giay, Hanoi
 <br>
 <b>Email</b>: dung.la@cmctelecom.vn | Website: https://cmctelecom.vn/ 
-</p> 
+</p>  -->
 
 ### DevSecOps  
 <div align="center">
