@@ -1,8 +1,5 @@
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Name and tags | Name | Site-01 | (optional) cấu hình tag name cho ec2 instance |
-
-| --- | --- |
+|  |  |  
+| --- | --- | 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark) | <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
   <h1 align="center">👋 Hi, I'm Dung Le Anh from :vietnam: </h1>
@@ -54,6 +51,7 @@
   <b>Add</b>: CMC Tower, 11 Duy Tan, Cau Giay, Hanoi
   <br>
   <b>Email</b>: dung.la@cmctelecom.vn | Website: https://cmctelecom.vn/ 
-  </p> |
+  </p> 
+ 
 
 
