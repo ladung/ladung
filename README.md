@@ -1,6 +1,5 @@
-<center> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark) 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladung&theme=radical&layout=compact" /> 
   
 <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
