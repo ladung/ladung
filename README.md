@@ -55,5 +55,3 @@ Devops Engineeer
 <b>Email</b>: dung.la@cmctelecom.vn | Website: https://cmctelecom.vn/ 
 </p> 
 
-
-
