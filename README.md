@@ -1,8 +1,3 @@
-<div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 48%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark" />
- <img style="height: auto; width: 40%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladung&theme=radical&layout=compact" />
-</div>
-  
 <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
 <h1 align="center">👋 Hi, I'm Dung Le Anh from :vietnam: </h1>
@@ -56,3 +51,26 @@ Devops Engineeer
 <b>Email</b>: dung.la@cmctelecom.vn | Website: https://cmctelecom.vn/ 
 </p> 
 
+### DevSecOps  
+<div align="center">
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://luanbn.files.wordpress.com/2016/05/favicon.png" alt="Kubernetes" height="50" /></a>
+  <a href="https://www.gitops.tech/" target="_blank"><img style="margin: 10px" src="https://pradeepl.com/blog/gitops/Gitops-cover.png" alt="GitOps" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+  <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+  <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
+  <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" alt="Terraform" height="50" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.transa.ng/transang-blog/2019/01/1200px-Python.svg.png" alt="Python" height="50" /></a>
+  <a href="https://www.sonarqube.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/666/1*rn-sO9oWLn9lYO7jkVO6og.png" alt="Sonarqube" height="50" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" alt="Jenkins" height="50" /></a>
+</div>
+
+### Github Stats 
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 48%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark" />
+ <img style="height: auto; width: 40%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladung&theme=radical&layout=compact" />
+</div>
+  
