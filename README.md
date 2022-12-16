@@ -1,10 +1,5 @@
-<div class="row">
-  <div class="column"></div>
-  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=dark)
 
-<div class="column"></div>
 <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
 <h1 align="center">👋 Hi, I'm Dung Le Anh from :vietnam: </h1>
@@ -57,4 +52,4 @@ Devops Engineeer
 <br>
 <b>Email</b>: dung.la@cmctelecom.vn | Website: https://cmctelecom.vn/ 
 </p>
-</div>
+
