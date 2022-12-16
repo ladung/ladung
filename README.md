@@ -1,4 +1,3 @@
-| Loại cài đặt | Cấu hình | thông số | mô tả |
 | --- | --- | --- | --- |
 | Name and tags | Name | Site-01 | (optional) cấu hình tag name cho ec2 instance |
 
