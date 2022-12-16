@@ -1,7 +1,5 @@
-<div style="display: flex; flex-direction: row;">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladung&theme=radical&layout=compact" />
-</div>
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladung&theme=radical&layout=compact" />
   
 <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
