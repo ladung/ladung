@@ -1,3 +1,7 @@
+| Loại cài đặt | Cấu hình | thông số | mô tả |
+| --- | --- | --- | --- |
+| Name and tags | Name | Site-01 | (optional) cấu hình tag name cho ec2 instance |
+
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladung&show_icons=true&theme=onedark) | <!-- # 👋  Hi, I'm Dung Le Anh from :vietnam: -->
 
